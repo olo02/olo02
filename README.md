@@ -13,7 +13,7 @@
 - Strength and Weakness<br>
 
 - Education<br>
-  경북대학교 정치외교학과<br>
+  경북대학교 정치외교학 학사<br>
   Kyungpook National University, Korea<br>
   B.A. in Political Science and Diplomacy
 
