@@ -2,7 +2,8 @@
 
 <br>
 
-<img src="https://github.com/olo02/olo02/assets/121186383/4e873ee3-bb3e-4961-806a-2f960c7210d1" width="100" />
+<img src="https://github.com/olo02/olo02/assets/121186383/4e873ee3-bb3e-4961-806a-2f960c7210d1" width="150" />
+
 ## My Profile
 
 - [Profile Web Site](https://)
