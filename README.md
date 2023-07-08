@@ -19,7 +19,7 @@
   - JSP + Servlet
   - Virtual CityHall Web Site
   - Personal Project
-- [My Portfolio](https://olooe.city)
+- [My Portfolio](https://my.olooe.city)
   - React
   - My Portfolio Web Site
   - Personal Project
