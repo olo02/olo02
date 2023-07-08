@@ -11,7 +11,6 @@
   - SpringBoot + React
   - Plogging Web Application
   - Final Team Project
-  - Comming Soon ...
 - [Damso SNS](https://damso.olooe.city)
   - Spring + JSP
   - Instagram Clone Web Application
