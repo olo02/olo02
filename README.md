@@ -57,7 +57,7 @@
 
 ## My Profile
 
-- [Profile Web Site](https://olooe.city)
+- [Profile Web Site](https://my.olooe.city)
 
 - Education<br>
   경북대학교 정치외교학 학사<br>
