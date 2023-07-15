@@ -7,7 +7,7 @@
 
 ## My Project
 
-- [Plogging Application](https://jubging.olooe.city) / [Git](https://github.com/orgs/plogging-project/repositories)
+- [Jubging : Plogging Game](https://jubging.olooe.city) / [Git](https://github.com/orgs/plogging-project/repositories)
   - SpringBoot + React
   - Plogging Web Application
   - Final Team Project
