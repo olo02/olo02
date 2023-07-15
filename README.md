@@ -15,7 +15,7 @@
   - Spring + JSP
   - Instagram Clone Web Application
   - Semi Team Project
-- [WOONEUNG CITY](https://wooneung.olooe.city) / [Git](https://github.com/olo02/AWS_fullstack_personal_project_CityHall)
+- [WOONEUNG City Hall](https://wooneung.olooe.city) / [Git](https://github.com/olo02/AWS_fullstack_personal_project_CityHall)
   - JSP + Servlet
   - Virtual CityHall Web Site
   - Personal Project
