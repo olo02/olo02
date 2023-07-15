@@ -7,27 +7,27 @@
 
 ## My Project
 
-- [Plogging Application](https://jubging.olooe.city)
+- [Plogging Application](https://jubging.olooe.city): [Git](https://github.com/orgs/plogging-project/repositories)
   - SpringBoot + React
   - Plogging Web Application
   - Final Team Project
-- [Damso SNS](https://damso.olooe.city)
+- [Damso SNS](https://damso.olooe.city): [Git](https://github.com/olo02/AWS_fullstack_semi_project_SNS)
   - Spring + JSP
   - Instagram Clone Web Application
   - Semi Team Project
-- [WOONEUNG CITY](https://wooneung.olooe.city)
+- [WOONEUNG CITY](https://wooneung.olooe.city): [Git](https://github.com/olo02/AWS_fullstack_personal_project_CityHall)
   - JSP + Servlet
   - Virtual CityHall Web Site
   - Personal Project
-- [My Portfolio](https://my.olooe.city)
+- [My Portfolio](https://my.olooe.city): [Git](https://github.com/olo02/AWS_fullstack_personal_project_Portfolio)
   - React
   - My Portfolio Web Site
   - Personal Project
-- [Todo List App](https://todo.olooe.city)
+- [Todo List App](https://todo.olooe.city) : [Backend Git](https://github.com/olo02/AWS_fullstack_personal_project_Todo_Backend) [Frontend Git](https://github.com/olo02/AWS_fullstack_personal_project_Todo_Frontend)
   - SpringBoot + React
   - Todo List Web Application
   - Personal Project
-- BookStore
+- BookStore : [Git](https://github.com/olo02/AWS_fullstack_mini_project_BookStore)
   - Java Console Application
   - Online BookStore
   - Mini Team project
