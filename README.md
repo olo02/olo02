@@ -1,9 +1,11 @@
 # Welcome, I am Full Stack Web Developer, Eungyeong Chun.
 
-<br>
+<div align="center">
+  <img src="https://github.com/olo02/olo02/assets/121186383/4e873ee3-bb3e-4961-806a-2f960c7210d1" width="150" />
 
-<img src="https://github.com/olo02/olo02/assets/121186383/4e873ee3-bb3e-4961-806a-2f960c7210d1" width="150" />
-
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Folo02%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+</div>
 
 ## My Project
 
