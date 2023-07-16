@@ -8,7 +8,7 @@
   - SpringBoot + React
   - Plogging Web Application
   - Final Team Project
-- [Damso SNS](https://damso.olooe.city) / [Git](https://github.com/olo02/AWS_fullstack_semi_project_SNS)
+- [Damso SNS](http://damso.olooe.city) / [Git](https://github.com/olo02/AWS_fullstack_semi_project_SNS)
   - Spring + JSP
   - Instagram Clone Web Application
   - Semi Team Project
