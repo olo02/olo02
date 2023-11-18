@@ -1,34 +1,5 @@
 # Welcome, I am Developer, Eungyeong Chun.
 
-## My Project
-
-- [Jubging : Plogging Game](https://jubging.olooe.city) / [Git](https://github.com/plogging-project)
-  - SpringBoot + React
-  - Plogging Web Application
-  - Final Team Project
-- [Damso SNS](http://damso.olooe.city) / [Git](https://github.com/olo02/AWS_fullstack_semi_project_SNS)
-  - Spring + JSP
-  - Instagram Clone Web Application
-  - Semi Team Project
-- [WOONEUNG City Hall](https://wooneung.olooe.city) / [Git](https://github.com/olo02/AWS_fullstack_personal_project_CityHall)
-  - JSP + Servlet
-  - Virtual CityHall Web Site
-  - Personal Project
-- [My Portfolio](https://my.olooe.city) / [Git](https://github.com/olo02/AWS_fullstack_personal_project_Portfolio)
-  - React
-  - My Portfolio Web Site
-  - Personal Project
-- [Todo List App](https://todo.olooe.city) / [Backend Git](https://github.com/olo02/AWS_fullstack_personal_project_Todo_Backend) / [Frontend Git](https://github.com/olo02/AWS_fullstack_personal_project_Todo_Frontend)
-  - SpringBoot + React
-  - Todo List Web Application
-  - Personal Project
-- BookStore / [Git](https://github.com/olo02/AWS_fullstack_mini_project_BookStore)
-  - Java Console Application
-  - Online BookStore
-  - Mini Team project
-
-<br>
-
 ## Language
 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
